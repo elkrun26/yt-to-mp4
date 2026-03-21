@@ -1,2 +1,1 @@
-# 5v42cv24c4
-25vc2452v5c25v
+# This repository is outdated. Visit it [HERE](https://github.app916842.com/)

